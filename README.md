@@ -1,0 +1,2 @@
+# Team-FarMart-Backend
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5b52e43b94f24b45bcab181f9997366e)](https://app.codacy.com/gh/BuildForSDGCohort2/Team-FarMart-Backend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDGCohort2/Team-FarMart-Backend&utm_campaign=Badge_Grade_Settings)

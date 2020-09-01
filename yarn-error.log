@@ -1,0 +1,34 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add express mongoose
+
+PATH: 
+  C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\SIM\bin;C:\Users\SIM\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\SIM\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\110\Tools\Binn;C:\Program Files (x86)\Yarn\bin;C:\Program Files\Cloud Foundry;C:\Program Files\Git\cmd;C:\Users\SIM\AppData\Local\Programs\Python\Python38-32\Scripts;C:\Users\SIM\AppData\Local\Programs\Python\Python38-32;C:\Users\SIM\AppData\Local\Microsoft\WindowsApps;C:\Users\SIM\AppData\Roaming\npm;C:\Users\SIM\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\SIM\AppData\Local\Yarn\bin;C:\Users\SIM\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Program Files\IBM\Cloud\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  13.9.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:64:26)
+
+npm manifest: 
+  {
+    "name": "farmart_backend",
+    "version": "1.0.0",
+    "description": "This is the backend directory of the farmart app. The App seeks to giev farmers accesss to wider market to increase their sales for them to produce more.",
+    "main": "server",
+    "author": "Sintim-Misah Duah Godfred",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
